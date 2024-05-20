@@ -12,7 +12,7 @@ If you don't want to download them, they're hosted here: [hershey_occidental.htm
 
 The CSV files only contain the Hershey Font id, as well as up to two Unicode mappings.
 
-Glyphs with multiple Unicode mappings could represent either one, like 1051, which could be a regular 'A' in an italic font, or '𝐴 (Mathematical Italic Capital A)' in a regular font.
+Glyphs with multiple Unicode mappings could represent either one, like [1051](https://kaloffl.github.io/0021/hershey_occidental.html#1051), which could be a regular 'A' in an italic font, or '𝐴 (Mathematical Italic Capital A)' in a regular font.
 
 ## Origin
 
@@ -22,7 +22,7 @@ The data in this repository came from the archive posted to the mod.sources Usen
 That data came from a magnetic tape bought from the NTIS, and was converted into a more compact format designed by James Hurt.
 Pretty much all Hershey Font data you find today is in that format.
 
-One modification has been made by me: the Usenet data appears to have suffered a bit-flip in the right bearing of glyph 3010 (triplex J), I changed it to the correct value according to Wolcott[1].
+One modification has been made by me: the Usenet data appears to have suffered a bit-flip in the right bearing of glyph [3010 (triplex J)](https://kaloffl.github.io/0021/hershey_occidental.html#3010), I changed it to the correct value according to Wolcott[1].
 
 The mapping has been done manually by me, with help from the descriptions in Wolcott's report[1] and checked against Reinholtz's mapping [2].
 The Kanji have been mapped to Unicode via handwriting recognition and validated by checking the On pronunciation provided by Hershey[3] with a modern dictionary.
