@@ -8,6 +8,8 @@ To put the whole repository in the public domain, the JHF glyph data has been om
 
 The HTML files contain SVG renderings of each glyph, corresponding Unicode glyphs and comments.
 
+If you don't want to download them, they're hosted here: [hershey_occidental.html](https://kaloffl.github.io/0021/hershey_occidental.html), [hershey_oriental.html](https://kaloffl.github.io/0021/hershey_oriental.html).
+
 The CSV files only contain the Hershey Font id, as well as up to two Unicode mappings.
 
 Glyphs with multiple Unicode mappings could represent either one, like 1051, which could be a regular 'A' in an italic font, or '𝐴 (Mathematical Italic Capital A)' in a regular font.
